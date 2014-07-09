@@ -1,0 +1,10 @@
+[
+  {"name": "S", "color": "009800"},
+  {"name": "M", "color": "fbca04"},
+  {"name": "L", "color": "eb6420"},
+  {"name": "XL", "color": "e11d21"},
+  {"name": "blocker", "color": "e11d21"},
+  {"name": "feature", "color": "0052cc"},
+  {"name": "design", "color": "d4c5f9"},
+  {"name": "copy", "color": "c7def8"}
+]
