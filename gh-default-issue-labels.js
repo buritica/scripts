@@ -1,6 +1,6 @@
 var GitHubApi = require("github");
 
-const token = GITHUB_OAUTH_TOKEN;
+const token = process.env.GITHUB_OAUTH_TOKEN;
 const labels = require('./labels.json');
 
 var github = new GitHubApi({
