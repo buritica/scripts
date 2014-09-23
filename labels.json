@@ -6,5 +6,7 @@
   {"name": "blocker", "color": "e11d21"},
   {"name": "feature", "color": "0052cc"},
   {"name": "design", "color": "d4c5f9"},
-  {"name": "copy", "color": "c7def8"}
+  {"name": "copy", "color": "c7def8"},
+  {"name": "backlog", "color": "5319e7"},
+  {"name": "draft", "color": "d4c5f9"}
 ]
